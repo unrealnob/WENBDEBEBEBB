@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "@iconify/tailwind4";
+
+@theme {
+  --font-navbar: "Playfair Display", ui-serif, Georgia, serif;
+}
+
+body {
+  background-image: url("./Gordon College schoolpng.jpg");
+}
